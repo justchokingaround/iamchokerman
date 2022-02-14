@@ -26,7 +26,6 @@
 <hr>
 <details align="center">
 <summary>GitHub Metrics</summary>
-  work in progress...
-<img src="./github-metrics.svg">
+<img src="https://metrics.lecoq.io/iamchokerman?template=classic&config.timezone=Europe%2FBerlin">
 
 </details>
