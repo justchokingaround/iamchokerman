@@ -26,6 +26,6 @@
 <hr>
 <details align="center">
 <summary>GitHub Metrics</summary>
-<img src="https://metrics.lecoq.io/iamchokerman?template=classic&repositories.forks=true&achievements=1&lines=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=5&config.timezone=Europe%2FBerlin">
+<img src="https://metrics.lecoq.io/iamchokerman?template=classic&followup=1&people=1&activity=1&achievements=1&lines=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=7&repositories.featured=iamchokerman%2Fani-sync&config.timezone=Europe%2FBerlin">
 
 </details>
