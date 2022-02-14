@@ -1,3 +1,9 @@
+<!--
+<div id="header" align="center">
+  <img src="https://c.tenor.com/EIgz_6bGTfIAAAAC/kusuo-saiki.gif" width="100"/>
+</div>
+-->
+
 ### Hi there 👋
 
 <!--
@@ -14,7 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div id="header">
-  <img src="https://c.tenor.com/EIgz_6bGTfIAAAAC/kusuo-saiki.gif" width="100"/>
-</div>
