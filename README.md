@@ -16,13 +16,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
-<p align="center">
+
+---
+
+<div align="center">
 <a href="https://discord.com/users/453579828281475084"><code><img src="https://discord.c99.nl/widget/theme-3/453579828281475084.png" height="80px"></code></a>
-</p>
+</div>
 
 <hr>
 <details align="center">
 <summary>GitHub Metrics</summary>
+  work in progress...
 <img src="./github-metrics.svg">
 
 </details>
