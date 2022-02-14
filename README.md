@@ -2,7 +2,6 @@
   <img src="https://c.tenor.com/EIgz_6bGTfIAAAAC/kusuo-saiki.gif" width="200"/>
 </div>
 
-
 ---
 ### 🔥 <samp>Statistics</samp> :
 <div align="center">
@@ -18,7 +17,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 <p align="center">
-<a href="https://discord.com/users/453579828281475084"><code><img src="https://discord.c99.nl/widget/theme-4/453579828281475084.png" height="80px"></code></a>
+<a href="https://discord.com/users/453579828281475084"><code><img src="https://discord.c99.nl/widget/theme-3/453579828281475084.png" height="80px"></code></a>
 </p>
 
 <hr>
