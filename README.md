@@ -1,13 +1,19 @@
-<!--
-<div id="header" align="center">
+
+<div id="header" align="left">
   <img src="https://c.tenor.com/EIgz_6bGTfIAAAAC/kusuo-saiki.gif" width="100"/>
 </div>
--->
 
-### Hi there 👋
+---
+### 🔥 Statistics :
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=iamchokerman&count_private=true&show_icons=true&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamchokerman&layout=compact&theme=radical" width="415"/>
+</div>
+
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+
+### 🛠️: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
