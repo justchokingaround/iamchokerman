@@ -1,11 +1,11 @@
 
-<div id="header" align="left">
-  <img src="https://c.tenor.com/EIgz_6bGTfIAAAAC/kusuo-saiki.gif" width="100"/>
+<div id="header" align="center">
+  <img src="https://c.tenor.com/EIgz_6bGTfIAAAAC/kusuo-saiki.gif" width="200"/>
 </div>
 
 ---
 ### 🔥 Statistics :
-<div>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=iamchokerman&count_private=true&show_icons=true&theme=radical"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamchokerman&layout=compact&theme=radical" width="415"/>
 </div>
@@ -19,6 +19,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
+<p align="center">
+<a href="https://discord.com/users/453579828281475084"><code><img src="https://discord.c99.nl/widget/theme-4/453579828281475084.png" height="80px"></code></a>
+</p>
 
 <!--
 **iamchokerman/iamchokerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
