@@ -26,6 +26,6 @@
 <hr>
 <details align="center">
 <summary>GitHub Metrics</summary>
-<img src="https://metrics.lecoq.io/iamchokerman?template=classic&repositories.forks=true&achievements=1&lines=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FBerlin">
+<img src="https://metrics.lecoq.io/iamchokerman?template=classic&repositories.forks=true&achievements=1&lines=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=5&config.timezone=Europe%2FBerlin">
 
 </details>
