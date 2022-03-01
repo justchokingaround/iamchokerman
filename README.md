@@ -6,7 +6,7 @@
 ### 🔥 <samp>Statistics</samp> :
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=iamchokerman&count_private=true&show_icons=true&theme=shades-of-purple&hide_border=true&hide_border=true&cache_seconds=1800&border_radius=10"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamchokerman&theme=shades-of-purple&hide_border=true&hide_border=true&cache_seconds=1800&border_radius=10" width="495"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamchokerman&theme=shades-of-purple&hide_border=true&hide_border=true&cache_seconds=1800&border_radius=10" width="250"/>
 </div>
 
 ---
