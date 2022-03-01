@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&color=%23C4B9F8&size=35&center=true&multiline=true&width=1000&height=150&lines=cool+shit)
 <p align="center">
 <img src=assets/hello_world.gif>
 </p>
