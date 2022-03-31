@@ -1,5 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&color=%23C4B9F8&size=35&center=true&multiline=true&width=1000&height=150&lines=will+update+my+gif+soon)
 
+
+https://user-images.githubusercontent.com/44473782/160951636-485faedd-5639-42c3-9070-faaaf94cf5c4.mp4
+
+
 ---
 ### 🔥 <samp>Statistics</samp> :
 <div align="center">
